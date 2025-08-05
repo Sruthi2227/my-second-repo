@@ -1,0 +1,3 @@
+Duuna Sruti
+Bca
+DevOps is a set of practices, tools, and a cultural philosophy that aims to bridge the gap between development (Dev) and operations (Ops) teams. The goal is to shorten the software development lifecycle and deliver high-quality software continuously.
